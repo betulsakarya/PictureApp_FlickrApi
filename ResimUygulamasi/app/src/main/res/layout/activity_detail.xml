@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingTop="70dp"
+    android:paddingRight="20dp"
+    android:paddingBottom="70dp"
+    tools:context=".DetailActivity">
+
+
+    <ImageView
+        android:id="@+id/image_view_detail"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@mipmap/ic_launcher">
+
+
+    </ImageView>
+
+</LinearLayout>
